@@ -7,7 +7,7 @@ import MainFooter from './components/MainFooter.vue'
 </script>
 
 <template>
-  <h1>eai véi</h1>
+  <h1>eai véiiiii</h1>
   <div class="tudo">
   <header>
     <top-header />
